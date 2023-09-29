@@ -1,1 +1,2 @@
-# Smart--Toy
+# IR Smart-BOT
+Introducing the IR SmartBot, an interactive toy robot that packs a punch with its multifunctional capabilities. This pint-sized wonder can be controlled via an IR remote, responding to IR frequencies with precision. It possesses color recognition technology, identifying and audibly describing colors in its surroundings, adding an educational twist to playtime. Equipped with obstacle detection sensors, it ensures safe navigation by skillfully avoiding obstructions. Beyond play, it engages in conversations with its audio output, making interactions lively, and even serves as a practical companion with its timer and alarm functions. The IR SmartBot is the ultimate blend of entertainment, education, and utility in one adorable package.
