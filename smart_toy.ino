@@ -1,5 +1,5 @@
 //******************libraries********************//
-#include <Talkie.h>       //audio module
+#include <Talkie.h>       //audio library
 #include <TalkieUtils.h>
 #include <Vocab_US_Large.h>
 #include <Vocab_Special.h>
